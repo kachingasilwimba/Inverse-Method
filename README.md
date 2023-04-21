@@ -15,5 +15,7 @@ The course is structured around a series of lectures and assignments, which are 
 - Bayesian inference
 - Data assimilation
 
+## Citation 
 
+- Aster, R. C., Borchers, B., & Thurber, C. H. (2018). Parameter estimation and inverse problems. Elsevier.
 
