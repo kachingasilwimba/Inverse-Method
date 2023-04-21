@@ -1,4 +1,4 @@
-# Inverse_Method-
+# Inverse_Method
 Sure, here's an example GitHub README message for an inverse methods course repository:
 
 # Inverse Methods Course
