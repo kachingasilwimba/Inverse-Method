@@ -16,27 +16,4 @@ The course is structured around a series of lectures and assignments, which are 
 - Data assimilation
 
 
-The lectures and assignments are designed to build upon each other, with later modules assuming knowledge of earlier ones. 
-
-## Course Materials
-
-The course materials are organized into subdirectories within this repository, including:
-
-- `lectures/`: Lecture notes and slides in PDF format
-- `code/`: Code examples and scripts in various programming languages
-- `data/`: Sample data files for use in assignments and code examples
-- `assignments/`: Homework assignments and solutions
-
-## Getting Started
-
-To get started with the course materials, simply clone this repository to your local machine:
-
-```
-git clone https://github.com/kachingasilwimba/Inverse_Method.git
-```
-
-From there, you can navigate to the various subdirectories to access the lecture notes, code examples, and assignments. 
-
-
-
 
