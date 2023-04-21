@@ -32,7 +32,7 @@ The course materials are organized into subdirectories within this repository, i
 To get started with the course materials, simply clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/inverse-methods-course.git
+git clone https://github.com/kachingasilwimba/Inverse_Method.git
 ```
 
 From there, you can navigate to the various subdirectories to access the lecture notes, code examples, and assignments. 
